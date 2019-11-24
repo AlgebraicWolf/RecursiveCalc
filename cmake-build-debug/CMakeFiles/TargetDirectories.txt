@@ -1,0 +1,3 @@
+/home/alexey/Programming/Calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexey/Programming/Calc/cmake-build-debug/CMakeFiles/Calc.dir
+/home/alexey/Programming/Calc/cmake-build-debug/CMakeFiles/edit_cache.dir
